@@ -1,3 +1,19 @@
+#Log In,Registration Forms Validation and Different movies using React
+-----
+#Introduction
+----
+-This repository has forms validation for log in and registration forms that will be inserted into wider React projects in the future
+-The uploaded files / folders are missing node_modules folder which can be created locally using npm init in the app directory
+-Different movies and when you click on each movie, you can enter and see more information about it
+-page not found
+#Screenshots for Log In Form validation
+--------
+Log In Form(True)
+-----
+![nav](https://user-images.githubusercontent.com/66526898/150209997-0bd447f1-3d31-4113-99cc-9dfb43cc2ae3.png)
+![login](https://user-images.githubusercontent.com/66526898/150210023-81d509e2-f3ec-4e70-ac23-529ee95ae332.jpeg)
+![login](https://user-images.githubusercontent.com/66526898/150210130-0bda6380-7023-4115-a81a-1d6983bb29ef.jpeg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
