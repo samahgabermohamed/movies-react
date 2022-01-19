@@ -3,16 +3,55 @@
 #Introduction
 ----
 -This repository has forms validation for log in and registration forms that will be inserted into wider React projects in the future
+
 -The uploaded files / folders are missing node_modules folder which can be created locally using npm init in the app directory
+
 -Different movies and when you click on each movie, you can enter and see more information about it
+
 -page not found
+
 #Screenshots for Log In Form validation
 --------
 Log In Form(True)
 -----
 ![nav](https://user-images.githubusercontent.com/66526898/150209997-0bd447f1-3d31-4113-99cc-9dfb43cc2ae3.png)
+choise login
+------
 ![login](https://user-images.githubusercontent.com/66526898/150210023-81d509e2-f3ec-4e70-ac23-529ee95ae332.jpeg)
-![login](https://user-images.githubusercontent.com/66526898/150210130-0bda6380-7023-4115-a81a-1d6983bb29ef.jpeg)
+invalid login
+![invalidlogin](https://user-images.githubusercontent.com/66526898/150210766-9106e2c4-c350-43aa-9bd6-bbfb282abd84.png)
+login
+![login-true](https://user-images.githubusercontent.com/66526898/150210852-d222cc62-03df-4272-aebb-ad7eda41e5cd.png)
+choise registration
+--------
+![register](https://user-images.githubusercontent.com/66526898/150211070-1f40ff84-3b23-49e7-949f-5a5cef3543b3.jpeg)
+![registform](https://user-images.githubusercontent.com/66526898/150211102-cbaa45e3-f3eb-4173-bdb3-8bddb7a89c36.png)
+invalid regist
+![registinvalid](https://user-images.githubusercontent.com/66526898/150211105-bd7bd609-2eb2-46b7-b96f-fdfac6526600.png)
+valid regist
+![regist-valid](https://user-images.githubusercontent.com/66526898/150211107-fbd7c21c-3c2f-4b2b-a21e-7113b948ce42.png)
+choise favourite
+--------
+![favorite](https://user-images.githubusercontent.com/66526898/150211566-140239df-cca6-40e5-bb9a-ea0e2ba4cbf3.jpeg)
+![favoritpage](https://user-images.githubusercontent.com/66526898/150211568-2633374e-5192-4d5b-a606-b6697f71ffe6.png)
+choise movies
+------
+![movies](https://user-images.githubusercontent.com/66526898/150211752-6ef17a68-6d5f-4604-af0a-70d818ce22ee.jpeg)
+![movie1](https://user-images.githubusercontent.com/66526898/150211823-e8e4469b-72c5-490a-93f7-4d8116ee748d.png)
+![movie2](https://user-images.githubusercontent.com/66526898/150211831-6ae28283-af7c-4569-98c2-9b128e448cd0.png)
+![movie3](https://user-images.githubusercontent.com/66526898/150211834-2e35c78c-dda0-4999-b724-c679ed93606c.png)
+![movie4](https://user-images.githubusercontent.com/66526898/150211839-4b26f1ca-86b2-4761-96b5-59be00e928c1.png)
+![movie5](https://user-images.githubusercontent.com/66526898/150211851-0c28f796-d0d6-4bee-91e0-d7a1ca6a1fdd.png)
+![movie6](https://user-images.githubusercontent.com/66526898/150211858-95009859-abc1-43d3-bb7c-83bd44ad4047.png)
+![movie7](https://user-images.githubusercontent.com/66526898/150211871-e9f056ee-90f8-4446-8d36-a13fae6005d7.png)
+![movie8](https://user-images.githubusercontent.com/66526898/150211880-dee4e710-d093-4f16-8679-27e87fcc7ef8.png)
+![movie9](https://user-images.githubusercontent.com/66526898/150211886-7cc0a5b1-1bd6-4ecd-9447-0ae4d492afeb.png)
+when you click on each movie, you can enter and see more information about it
+-----------------------------------
+![choise](https://user-images.githubusercontent.com/66526898/150212114-c550b238-0475-49b1-844a-71ffcd8101ce.png)
+![details](https://user-images.githubusercontent.com/66526898/150212119-96ed107d-cf90-4c3d-99bb-38c6bdf28743.png)
+
+
 
 # Getting Started with Create React App
 
